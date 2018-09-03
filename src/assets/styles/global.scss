@@ -30,13 +30,19 @@ $fontSize: 37.5;
 .silde-down-enter-to,
 .silde-down-leave,
 .silde-up-enter-to,
-.silde-up-leave {
+.silde-up-leave,
+.silde-right-enter-to,
+.silde-right-leave {
   transform: translate3d(0, 0, 0);
 }
 .silde-down-enter-active,
 .silde-down-leave-active,
 .silde-up-enter-active,
-.silde-up-leave-active {
+.silde-up-leave-active,
+.fade-enter-active,
+.fade-leave-active,
+.silde-right-enter-active,
+.silde-right-leave-active {
   transition: all 0.3s linear;
 }
 
@@ -50,7 +56,7 @@ $fontSize: 37.5;
   opacity: 1;
 }
 
-.fade-enter-active,
-.fade-leave-active {
-  transition: opacity 0.3s linear;
+.silde-right-enter,
+.silde-right-to {
+  transform: translate3d(-100%, 0, 0);
 }
