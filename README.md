@@ -4,7 +4,7 @@
 
 > 功能：查看目录、设置进度、切换主题、设置字体大小
 
-> 访问地址：https://github.com/lxx0904/reader-demo/reader
+> 访问地址：https://lxx0904.github.io/reader-demo/reader
 
 > A Vue.js project
 
