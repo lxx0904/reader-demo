@@ -1,5 +1,11 @@
 # reader
 
+> 根据慕课网学习，制作了基于epubjs的阅读器
+
+> 功能：查看目录、设置进度、切换主题、设置字体大小
+
+> 访问地址：https://github.com/lxx0904/reader-demo/reader
+
 > A Vue.js project
 
 ## Build Setup
